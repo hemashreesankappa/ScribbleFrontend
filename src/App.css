@@ -1,0 +1,20 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.color {
+  color: #289204;
+}
+
+.card:link,
+.card:hover,
+.card:active {
+  background-color: #d3f9d8 !important;
+}
+
+.nav-logo:link,
+.nav-logo:visited,
+.nav-logo:hover,
+.nav-logo:active {
+  color: #289204;
+}
